@@ -21,11 +21,11 @@ My Python project for working with the Standoff 2 market through the Astandy lib
 
 1. Установите Python 3.10 или новее.
    Install Python 3.10 or newer.
-2. Установите нужную библиотеку:
-   Install the required package:
+2. Установите зависимости:
+   Install the dependencies:
 
    ```bash
-   pip install aiohttp
+   pip install -r requirements.txt
    ```
 
 3. Откройте `Connect.py` и заполните свои данные:

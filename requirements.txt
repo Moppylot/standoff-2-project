@@ -1,0 +1,5 @@
+aiohttp
+cryptography
+lz4
+protobuf
+python-socks[asyncio]
